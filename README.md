@@ -42,12 +42,7 @@
 | 🔍 SEO Optimization | Rank higher. Get discovered. |
 
 </div>
-🖼️ Portfolio
-<div align="center">
-
-Check out some of our featured projects:
-
-<table> <tr> <td align="center"><img src="https://via.placeholder.com/300x180?text=Project+1" alt="Project 1"/><br/>Project 1</td> <td align="center"><img src="https://via.placeholder.com/300x180?text=Project+2" alt="Project 2"/><br/>Project 2</td> <td align="center"><img src="https://via.placeholder.com/300x180?text=Project+3" alt="Project 3"/><br/>Project 3</td> </tr> </table> </div>
+---
 
 ## ✨ Why Brands Choose Us
 
