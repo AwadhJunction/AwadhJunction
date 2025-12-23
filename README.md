@@ -42,8 +42,12 @@
 | 🔍 SEO Optimization | Rank higher. Get discovered. |
 
 </div>
+🖼️ Portfolio
+<div align="center">
 
----
+Check out some of our featured projects:
+
+<table> <tr> <td align="center"><img src="https://via.placeholder.com/300x180?text=Project+1" alt="Project 1"/><br/>Project 1</td> <td align="center"><img src="https://via.placeholder.com/300x180?text=Project+2" alt="Project 2"/><br/>Project 2</td> <td align="center"><img src="https://via.placeholder.com/300x180?text=Project+3" alt="Project 3"/><br/>Project 3</td> </tr> </table> </div>
 
 ## ✨ Why Brands Choose Us
 
@@ -69,3 +73,6 @@ A[Brand Analysis] --> B[Strategy Planning]
 B --> C[Creative Execution]
 C --> D[Launch & Optimize]
 D --> E[Scale & Grow]
+
+📬 Contact Us
+<div align="center"> <p> 💌 <strong>Email:</strong> <a href="mailto:info@awadhjunction.com">info@awadhjunction.com</a><br/> 🏢 <strong>Office:</strong> 6, Adarsh Nagar, Jageshwapuri Colony, Kamla Nehru Nagar, Khurram Nagar, Lucknow, Uttar Pradesh 226022<br/> 📞 <strong>Phone:</strong> <a href="tel:+919696015858">+91 96960 15858</a> </p> <div> <a href="mailto:info@awadhjunction.com"><img src="https://img.icons8.com/color/48/000000/email.png" alt="Email"/></a> <a href="https://goo.gl/maps/XXXXXX" target="_blank"><img src="https://img.icons8.com/color/48/000000/office.png" alt="Office"/></a> <a href="tel:+919696015858"><img src="https://img.icons8.com/color/48/000000/phone.png" alt="Phone"/></a> </div> </div> ```
