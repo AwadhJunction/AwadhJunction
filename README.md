@@ -10,7 +10,7 @@
 
 </div>
 
----
+
 
 ## 🚀 About AwadhJunction
 
@@ -30,10 +30,9 @@
 - 📧 Email: [info@awadhjunction.com](mailto:info@awadhjunction.com)  
 - 🏢 Office: 6, Adarsh Nagar, Jageshwapuri Colony, Kamla Nehru Nagar, Khurram Nagar, Lucknow, Uttar Pradesh 226022  
 - 📱 Phone: [+91 96960 15858](tel:+919696015858)
+<br>
 
 ---
-
-
 ## 💼 Our Core Services
 
 <div align="center">
