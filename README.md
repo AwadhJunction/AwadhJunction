@@ -29,45 +29,65 @@
 ## 💼 Our Core Services
 
 <div align="center">
-
-| 🔹 Service | 💡 Description |
-|-----------|---------------|
-| 📈 Digital Marketing | Growth-focused strategies that convert |
-| 🎨 Graphic Designing | Scroll-stopping visuals & brand identity |
-| 🎬 Video Editing | Reels, ads & cinematic brand stories |
-| 📣 Branding & Printing | Offline + online brand presence |
-| 🌐 Web Development | SEO-friendly & conversion-ready websites |
-| ✍ Content Writing | Copy that connects and sells |
-| 📱 Social Media Marketing | Engagement, reach & leads |
-| 🔍 SEO Optimization | Rank higher. Get discovered. |
-
+[![Digital Marketing](badge-link)](service-link)
+[![Graphic Design](badge-link)](service-link)
+[![Video Editing](badge-link)](service-link)
+[![Branding & Printing](badge-link)](service-link)
+[![Web Development](badge-link)](service-link)
+[![Content Writing](badge-link)](service-link)
+[![Social Media Marketing](badge-link)](service-link)
+[![SEO Optimization](badge-link)](service-link)
 </div>
+
 ---
 
 ## ✨ Why Brands Choose Us
-
 <div align="center">
-
 ✅ **ROI-Driven Campaigns**  
 ✅ **Creative + Performance Approach**  
 ✅ **Transparent Reporting & Insights**  
 ✅ **Customized Marketing Solutions**  
 ✅ **Latest Tools & Trends**
-
 </div>
+
 
 ---
 ## 📊 Our Digital Marketing Workflow
 
 <div align="center">
-
 ```mermaid
 graph LR
 A[Brand Analysis] --> B[Strategy Planning]
 B --> C[Creative Execution]
 C --> D[Launch & Optimize]
 D --> E[Scale & Grow]
+</div> ```
+ Stats Section with Animated Counters
+<div align="center">
+![Clients](badge-link)
+![Projects](badge-link)
+![Campaigns](badge-link)
+![ROI](badge-link)
 </div>
 
+
 📬 Contact Us
-<div align="center"> <p> 💌 <strong>Email:</strong> <a href="mailto:info@awadhjunction.com">info@awadhjunction.com</a><br/> 🏢 <strong>Office:</strong> 6, Adarsh Nagar, Jageshwapuri Colony, Kamla Nehru Nagar, Khurram Nagar, Lucknow, Uttar Pradesh 226022<br/> 📞 <strong>Phone:</strong> <a href="tel:+919696015858">+91 96960 15858</a> </p> <div> <a href="mailto:info@awadhjunction.com"><img src="https://img.icons8.com/color/48/000000/email.png" alt="Email"/></a> <a href="https://goo.gl/maps/XXXXXX" target="_blank"><img src="https://img.icons8.com/color/48/000000/office.png" alt="Office"/></a> <a href="tel:+919696015858"><img src="https://img.icons8.com/color/48/000000/phone.png" alt="Phone"/></a> </div> </div> ```
+<div align="center"> 
+<p> 💌 <strong>Email:</strong> <a href="mailto:info@awadhjunction.com">info@awadhjunction.com</a><br/> 
+🏢 <strong>Office:</strong> Address here<br/> 
+📞 <strong>Phone:</strong> <a href="tel:+919696015858">+91 96960 15858</a> 
+</p> 
+
+<div> 
+<a href="mailto:info@awadhjunction.com"><img src="email-badge" alt="Email"/></a> 
+<a href="https://goo.gl/maps/XXXXXX" target="_blank"><img src="office-badge" alt="Office"/></a> 
+<a href="tel:+919696015858"><img src="phone-badge" alt="Phone"/></a> 
+<a href="LinkedIn-link"><img src="linkedin-badge" alt="LinkedIn"/></a>
+<a href="Instagram-link"><img src="instagram-badge" alt="Instagram"/></a>
+</div> 
+</div>
+
+Footer
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:60A5FA&height=60&section=footer" />
+</div>
