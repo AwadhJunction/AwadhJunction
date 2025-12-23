@@ -67,7 +67,7 @@ A[Brand Analysis] --> B[Strategy Planning]
 B --> C[Creative Execution]
 C --> D[Launch & Optimize]
 D --> E[Scale & Grow]
-<\div>
+</div>
 
 📬 Contact Us
 <div align="center"> <p> 💌 <strong>Email:</strong> <a href="mailto:info@awadhjunction.com">info@awadhjunction.com</a><br/> 🏢 <strong>Office:</strong> 6, Adarsh Nagar, Jageshwapuri Colony, Kamla Nehru Nagar, Khurram Nagar, Lucknow, Uttar Pradesh 226022<br/> 📞 <strong>Phone:</strong> <a href="tel:+919696015858">+91 96960 15858</a> </p> <div> <a href="mailto:info@awadhjunction.com"><img src="https://img.icons8.com/color/48/000000/email.png" alt="Email"/></a> <a href="https://goo.gl/maps/XXXXXX" target="_blank"><img src="https://img.icons8.com/color/48/000000/office.png" alt="Office"/></a> <a href="tel:+919696015858"><img src="https://img.icons8.com/color/48/000000/phone.png" alt="Phone"/></a> </div> </div> ```
