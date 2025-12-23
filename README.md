@@ -25,27 +25,11 @@
 </div>
 
 ---
-## 📬 Contact Us
+## 📞 Contact
 
-<div align="center">
-
-<!-- Email Badge -->
-<a href="mailto:info@awadhjunction.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-%232563EB?style=for-the-badge&logo=gmail&logoColor=white&animation=spin" alt="Email"/>
-</a>
-
-<!-- Office Badge -->
-<a href="https://goo.gl/maps/XXXXXX" target="_blank">
-  <img src="https://img.shields.io/badge/Office-%2360A5FA?style=for-the-badge&logo=google-maps&logoColor=white&animation=spin" alt="Office"/>
-</a>
-
-<!-- Phone Badge -->
-<a href="tel:+919696015858" target="_blank">
-  <img src="https://img.shields.io/badge/Phone-%232563EB?style=for-the-badge&logo=call&logoColor=white&animation=spin" alt="Phone"/>
-</a>
-
-</div>
-
+- 📧 Email: [info@awadhjunction.com](mailto:info@awadhjunction.com)  
+- 🏢 Office: 6, Adarsh Nagar, Jageshwapuri Colony, Kamla Nehru Nagar, Khurram Nagar, Lucknow, Uttar Pradesh 226022  
+- 📱 Phone: [+91 96960 15858](tel:+919696015858)
 
 
 ## 💼 Our Core Services
