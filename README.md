@@ -25,6 +25,31 @@
 </div>
 
 ---
+## 📬 Contact Us
+
+<div align="center">
+
+<p>Reach out to us directly:</p>
+
+<div>
+  <!-- Email -->
+  <a href="mailto:info@awadhjunction.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%232563EB?style=for-the-badge&logo=gmail&logoColor=white&animation=spin" alt="Email"/>
+  </a>
+  
+  <!-- Office -->
+  <a href="https://goo.gl/maps/XXXXXX" target="_blank">
+    <img src="https://img.shields.io/badge/Office-%2360A5FA?style=for-the-badge&logo=google-maps&logoColor=white&animation=spin" alt="Office"/>
+  </a>
+  
+  <!-- Phone -->
+  <a href="tel:+919696015858" target="_blank">
+    <img src="https://img.shields.io/badge/Phone-%232563EB?style=for-the-badge&logo=call&logoColor=white&animation=spin" alt="Phone"/>
+  </a>
+</div>
+
+</div>
+
 
 ## 💼 Our Core Services
 
