@@ -1,12 +1,12 @@
-<!-- 🔥 Animated & Aesthetic README for AwadhJunction 🔥 -->
+<!-- 🔥 Animated & Aesthetic README for AwadhJunction (Blue & White Theme) 🔥 -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Welcome+to+AwadhJunction;Digital+Marketing+That+Drives+Results;Build.+Grow.+Scale.+Your+Brand" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Welcome+to+AwadhJunction;Digital+Marketing+That+Drives+Results;Build.+Grow.+Scale.+Your+Brand" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:FB923C&height=120&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:60A5FA&height=120&section=header" />
 
 </div>
 
@@ -15,7 +15,7 @@
 ## 🚀 About AwadhJunction
 
 <p align="center">
-✨ <strong>AwadhJunction</strong> is a results-driven <strong>Digital Marketing Agency</strong> helping brands stand out, scale faster, and convert better in the digital world.
+💙 <strong>AwadhJunction</strong> is a results-driven <strong>Digital Marketing Agency</strong> helping brands stand out, scale faster, and convert better in the digital world.
 </p>
 
 <div align="center">
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-| 🔥 Service | 💡 Description |
+| 🔹 Service | 💡 Description |
 |-----------|---------------|
 | 📈 Digital Marketing | Growth-focused strategies that convert |
 | 🎨 Graphic Designing | Scroll-stopping visuals & brand identity |
