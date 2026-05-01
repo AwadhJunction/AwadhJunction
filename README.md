@@ -12,7 +12,7 @@
 
 
 
-## 🚀 About AwadhJunction
+## 🚀 About Awadh Junction
 
 <p align="center">
 💙 <strong>AwadhJunction</strong> is a results-driven <strong>Digital Marketing Agency</strong> helping brands stand out, scale faster, and convert better in the digital world.
