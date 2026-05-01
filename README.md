@@ -1,4 +1,4 @@
-<!-- 🔥 Animated & Aesthetic README for AwadhJunction (Blue & White Theme) 🔥 -->
+<!-- 🔥 Animated & Aesthetic README for Awadh Junction (Blue & White Theme) 🔥 -->
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 ## 🚀 About Awadh Junction
 
 <p align="center">
-💙 <strong>AwadhJunction</strong> is a results-driven <strong>Digital Marketing Agency</strong> helping brands stand out, scale faster, and convert better in the digital world.
+💙 <strong>Awadh Junction</strong> is a results-driven <strong>Digital Marketing Agency</strong> helping brands stand out, scale faster, and convert better in the digital world.
 </p>
 
 <div align="center">
